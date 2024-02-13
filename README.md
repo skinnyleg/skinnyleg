@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## 🧰 &nbsp;Languages and Tools
  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,wordpress,visualstudio,linux,php,mysql,eclipse,bootstrap,java,jquery,powershell,pr,ps,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,discord,docker,git,github,html,js,linkdin,lua,neovim,nestjs,nextjs,nginx,nodejs,postman,postgres,prisma,py,react,stackoverflow,tailwind,ts,vim,vscode)](https://skillicons.dev)
 
 <!-- <h3> Support:</h3> -->
 <!--<a href=""> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohcineghalmi" /></a>-->
