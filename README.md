@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **skinnyleg/skinnyleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,14 +38,14 @@ Here are some ideas to get you started:
 ## 👇 Connect with me:
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ghalmi_mohcine)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohcine-ghalmi-759a12209/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/haitam-moubal-556196240/)
 
 
 ## 🧰 &nbsp;Languages and Tools
  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,wordpress,visualstudio,linux,php,mysql,eclipse,bootstrap,java,jquery,powershell,pr,ps,django)](https://skillicons.dev)
 
- <h3> Support:</h3>
+<!-- <h3> Support:</h3> -->
 <!--<a href=""> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohcineghalmi" /></a>-->
 
-<a href='https://www.buymeacoffee.com/mohcineghalmi' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<!-- <a href='https://www.buymeacoffee.com/mohcineghalmi' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
