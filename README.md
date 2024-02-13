@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href=""><img src="https://badge.mediaplus.ma/binary/mghalmi" alt="selhilal 42" align="center" style="left: 50%"/></a>
+<a href=""><img src="https://badge.mediaplus.ma/binary/hmoubal" alt="hmoubal 42" align="center" style="left: 50%"/></a>
  </p>
 
 ## 👇 stats
@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img width="44.5%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mohcine-Ghalmi?cardType=github" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohcine-Ghalmi&" />
+  <img width="44.5%" src="https://awesome-github-stats.azurewebsites.net/user-stats/skinnyleg?cardType=github" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=skinnyleg&" />
 </p>
 
 <p>
-<img width="980" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohcine-Ghalmi&hide_border=true" />
+<img width="980" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skinnyleg&hide_border=true" />
 </p>
 
 ---
