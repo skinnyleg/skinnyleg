@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 ---
 
 ## 👇 Connect with me:
-
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ghalmi_mohcine)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/haitam-moubal-556196240/)
 
 
