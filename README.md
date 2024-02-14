@@ -19,7 +19,7 @@ My name Haitam Moubal, I'm a web developer, And i spend most of my time coding p
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-Ridael20-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ridael20)](https://twitter.com/ridael20) [![Linkedin Badge](https://img.shields.io/badge/-Haitam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haitam-moubal-556196240/) [![Mail Badge](https://img.shields.io/badge/-Mr.haitam-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mr.ridael/) [![Mail Badge](https://img.shields.io/badge/-Haitam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:haitammoubal7@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-skinnyleg-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ridael20)](https://twitter.com/skinnyleg_official) [![Linkedin Badge](https://img.shields.io/badge/-Haitam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haitam-moubal-556196240/) [![Mail Badge](https://img.shields.io/badge/-Mr.haitam-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/haitam_moubal/) [![Mail Badge](https://img.shields.io/badge/-Haitam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:haitammoubal7@gmail.com)
 
 
 
