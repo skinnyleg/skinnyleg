@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi I'm Haitam
 
-My name Haitam Moubal, I'm a web developer, And i spend most of my time coding projects.
+My name Haitam Moubal, I'm a software developer, And i spend most of my time coding projects.
 
 :mailbox: Reach me out!
 
@@ -23,7 +23,7 @@ My name Haitam Moubal, I'm a web developer, And i spend most of my time coding p
 
 
 
-- 👀 I’m currently A web developer and Student at 1337.
+- 👀 I’m currently A software developer and Student at 1337.
 - 🌱 I’m currently learning Everything (; .
 - 💞️ I'm open to collaborating on interesting projects.
 - 📫 How to reach me : haitammoubal7@gmail.com. 
